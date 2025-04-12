@@ -47,10 +47,8 @@ header h1 {
 
 /* Base Navbar Styles */
 .navbar {
-  background-color: #0077b6;
-  padding: 0.75rem 1rem;
+  background-color: transparent;
 }
-
 .navbar ul {
   display: flex;
   flex-wrap: wrap;
